@@ -9,6 +9,6 @@ you can contact me via discord or email, discord: AverseABFun email: averse.abfu
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AverseABFun)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AverseABFun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AverseABFun&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AverseABFun&theme=default)
