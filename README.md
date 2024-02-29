@@ -9,14 +9,14 @@ you can contact me via discord or email, discord: AverseABFun email: averse.abfu
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true&theme=dark&exclude_repo=github-painter-repo"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true&exclude_repo=github-painter-repo"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true&exclude_repo=github-painter-repo" />
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AverseABFun&theme=dark&hide_border=true)](https://git.io/streak-stats)
