@@ -7,7 +7,17 @@ I am always open to collaborate on projects
 
 you can contact me via discord or email, discord: AverseABFun email: averse.abfun@gmail.com
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AverseABFun&theme=dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AverseABFun&show_icons=true" />
+</picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AverseABFun&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
