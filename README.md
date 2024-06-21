@@ -5,7 +5,13 @@ I are programmer, I make computer go beep boop beep boop and PCB fabricator mach
 
 I am always open to collaborate on projects
 
-you can contact me via discord or email, discord: AverseABFun email: averse.abfun@gmail.com
+you can contact me via:
+ * discord: AverseABFun
+ * email: averse.abfun@gmail.com
+ * matrix: @averse:envs.net
+ * mastodon: @arthur@social.hardfork.ngo
+ * hackclub slack: @Averse
+ * idk, any @Averse or @AverseABFun is probably me
 
 <picture>
   <source
