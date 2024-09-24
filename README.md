@@ -1,9 +1,17 @@
 ### Hi there 👋
 I'm Arthur Beck, also known as AverseABFun. 
 
-I are programmer, I make computer go beep boop beep boop and PCB fabricator machine go brr
+I like programming and PCB designing.
 
-I am always open to collaborate on projects
+My general tech stack is:
+* VSCode
+* Golang
+* Tinygo(sometimes)
+* Node.JS
+* NASM
+* KiCad
+* Onshape
+* Firefox
 
 you can contact me via:
  * discord: AverseABFun
