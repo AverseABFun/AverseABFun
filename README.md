@@ -18,7 +18,7 @@ you can contact me via:
  * email: averse.abfun@gmail.com
  * matrix: @averse:envs.net
  * mastodon: @arthur@social.hardfork.ngo
- * hackclub slack: @Averse
+ * hackclub slack: @arthur
  * my website: https://averse.is-a.dev/
  * idk, any @Averse or @AverseABFun is probably me
 
