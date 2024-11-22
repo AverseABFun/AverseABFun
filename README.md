@@ -19,8 +19,8 @@ you can contact me via:
  * matrix: @averse:envs.net
  * mastodon: @arthur@social.hardfork.ngo
  * hackclub slack: @arthur
- * my website: https://averse.is-a.dev/
- * idk, any @Averse or @AverseABFun is probably me
+ * my website: https://arthur.transfemme.dev/
+ * idk, any @Averse, @arthur, or @AverseABFun is **probably** me
 
 <picture>
   <source
