@@ -12,6 +12,8 @@ My general tech stack is:
 * KiCad
 * Onshape
 * Firefox
+* Rust
+* Cargo
 
 you can contact me via:
  * discord: AverseABFun
