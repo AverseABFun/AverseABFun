@@ -21,7 +21,7 @@ you can contact me via:
  * matrix: @averse:envs.net
  * mastodon: @arthur@social.hardfork.ngo
  * hackclub slack: @arthur
- * my website: https://arthur.transfemme.dev/
+ * my website: https://arthur.is-a.dev/
  * idk, any @Averse, @arthur, or @AverseABFun is **probably** me
 
 <picture>
