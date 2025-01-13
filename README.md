@@ -5,15 +5,11 @@ I like programming and PCB designing.
 
 My general tech stack is:
 * VSCode
-* Golang
-* Tinygo(sometimes)
-* Node.JS
-* NASM
 * KiCad
 * Onshape
 * Firefox
 * Rust
-* Cargo
+* Arch Linux
 
 you can contact me via:
  * discord: AverseABFun
