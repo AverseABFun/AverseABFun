@@ -1,4 +1,3 @@
-### Hi there 👋
 I'm Arthur Beck, also known as AverseABFun. 
 
 I like programming and PCB designing.
@@ -13,9 +12,9 @@ My general tech stack is:
 
 you can contact me via:
  * discord: AverseABFun
- * email: averse.abfun@gmail.com
+ * email: averse.abfun [at] gmail.com
  * matrix: @averse:envs.net
- * mastodon: @arthur@social.hardfork.ngo
+ * ~~mastodon: @arthur@social.hardfork.ngo~~ Have not touched in around 4-6 months
  * hackclub slack: @arthur
  * my website: https://averse.is-a.dev/
  * idk, any @Averse, @arthur, or @AverseABFun is **probably** me
@@ -35,7 +34,3 @@ you can contact me via:
 [![GitHub Streak](https://streak-stats.demolab.com?user=AverseABFun&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AverseABFun&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AverseABFun&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AverseABFun&theme=dark)
